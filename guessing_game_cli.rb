@@ -2,10 +2,12 @@
 def run_guessing_game
   random = rand(1..6)
   
-  guess = 0
+  input = 0
   
-  until guess == random
+  until input == random
   puts "Enter a number(1-6): "
   input = gets.chomp
+  
+  if input != 
 end
 end
