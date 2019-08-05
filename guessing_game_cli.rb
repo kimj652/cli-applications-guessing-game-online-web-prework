@@ -6,5 +6,6 @@ def run_guessing_game
   
   until guess == random
   puts "Enter a number(1-6): "
+  input = gets.chomp
 end
 end
