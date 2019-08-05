@@ -6,3 +6,4 @@ def run_guessing_game
   
   until guess == random
 end
+end
