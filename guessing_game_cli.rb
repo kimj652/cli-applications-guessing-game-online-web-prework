@@ -8,6 +8,6 @@ def run_guessing_game
   puts "Enter a number(1-6): "
   input = gets.chomp
   
-  if input != 
+  if input != random
 end
 end
