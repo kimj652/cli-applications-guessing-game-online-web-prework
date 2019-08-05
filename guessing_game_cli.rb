@@ -5,5 +5,6 @@ def run_guessing_game
   guess = 0
   
   until guess == random
+  puts "Enter a number(1-6):"
 end
 end
